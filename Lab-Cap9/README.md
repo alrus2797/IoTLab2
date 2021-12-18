@@ -1,4 +1,4 @@
-# Laboratorio 2 - IoT
+# Laboratorio 2 - Capítulo 9 (Pags: 137-152) - IoT
 ## Create APIs
 
 ### Flows
